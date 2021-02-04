@@ -1,8 +1,6 @@
 # DevCamper API
 
-### Project for Udemy course Node.js API Masterclass With Express & MongoDB by Brad Traversy
----
-Live Project: https://ziga-devcamper.herokuapp.com/
+Live Project: https://ziga-devcamper.herokuapp.com
 ---
 Goal of the project is to build a REST API from scratch using Node.js, Express.js, MongoDB and Postman Client
 ---
