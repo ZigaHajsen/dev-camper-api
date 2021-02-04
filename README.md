@@ -16,8 +16,8 @@ Contains
 - Models & Relationships
 - Geocodin 
 - Photo Upload 
-- Advanced Query(pagination, filter, etc.)
-- Security(NoSQL Injections, XSS, etc.)
+- Advanced Query (pagination, filter, etc.)
+- Security (NoSQL Injections, XSS, etc.)
 - Creating Documentation
 
 
