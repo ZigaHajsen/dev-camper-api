@@ -17,7 +17,6 @@ Contains
 - Geocodin 
 - Photo Upload 
 - Advanced Query (pagination, filter, etc.)
-- Security (NoSQL Injections, XSS, etc.)
 - Creating Documentation
 
 
